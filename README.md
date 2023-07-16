@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagrutikpatil&label=Profile%20views&color=0e75b6&style=flat" alt="jagrutikpatil" /> </p>
 
-- 🌱 I’m currently learning **React Native ,Node js**
+- 🌱 I’m currently learning **React Native ,Node js,mongodb*
 
 - 📫 How to reach me **jagrutipatil032@gmail.com**
 
